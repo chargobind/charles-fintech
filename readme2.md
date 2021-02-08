@@ -2,6 +2,8 @@
 
 ## <H2> Overview and Origin
 
+## <img> Desktop/tree.jpeg
+
 # Freshbook
 
  - When was the company incorporated? 2002
